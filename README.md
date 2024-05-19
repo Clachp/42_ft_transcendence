@@ -2,14 +2,6 @@
 	<img src="other/readme_images/main.gif">
 </div>
 
-<h1 align="center">
-	Link
-</h1>
-<p align="center">
-	https://transcendence.transcendons.fr/
-</p>
-
-
 ## Description
 <p align="center">
 	Are you the best Pong player in the world ? It's time to find out ! <br />
